@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "./labcodes/lab1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tex": "latex",
+			"*.s": "mips",
+			"defs.h": "c",
+			"x86.h": "c",
+			"string.h": "c",
+			"error.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
